@@ -82,7 +82,7 @@ const ProductPurchaseBox = () => {
             href="#"
             className="font-normal text-link hover:text-interactive-hover"
           >
-            World Games
+            Ultra Games
           </a>
         </p>
         <p className="text-xs text-text-secondary mt-2">+100 vendas</p>

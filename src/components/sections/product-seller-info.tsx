@@ -4,7 +4,7 @@ const ProductSellerInfo = () => {
   return (
     <div className="mt-8 rounded-lg border border-border bg-card p-4 shadow-sm">
       <p className="text-sm text-text-secondary">
-        Vendido por <a href="#" className="font-normal text-primary hover:text-interactive-hover no-underline hover:underline">World Games</a>
+        Vendido por <a href="#" className="font-normal text-primary hover:text-interactive-hover no-underline hover:underline">Ultra Games</a>
       </p>
 
       <div className="mt-4 flex items-center">

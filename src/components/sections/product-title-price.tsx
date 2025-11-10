@@ -71,7 +71,7 @@ const ProductTitlePrice = ({
           </p>
 
           <p className="mt-2 text-sm text-text-primary">
-            Vendido por <span className="text-interactive-primary">Loja World Games</span>
+            Vendido por <span className="text-interactive-primary">Ultra Games</span>
           </p>
 
           <p className="mt-0.5 text-xs text-text-secondary">
